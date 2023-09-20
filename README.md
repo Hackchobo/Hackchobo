@@ -30,6 +30,6 @@
 <div align="center">
     
 ![Hackchobo's github stats](https://github-readme-stats.vercel.app/api?username=Hackchobo&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Hackchobo)](https://solved.ac/Hackchobo/)
     
 </div>
