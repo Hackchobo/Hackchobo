@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hack%20chobo&fontSize=90&animation=fadeIn)
-<img alt=“Dynamic YAML Badge” src="https://img.shields.io/badge/dynamic/yaml">
+
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ### Hi there 👋
 
